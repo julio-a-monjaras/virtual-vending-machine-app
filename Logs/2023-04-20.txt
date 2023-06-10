@@ -1,0 +1,12 @@
+[04/20/2023 05:16:33 PM] FEED MONEY: $24.00 New Balance: $24.00
+[04/20/2023 05:41:03 PM] FEED MONEY: $24.00 New Balance: $24.00
+[04/20/2023 05:41:13 PM] ITEM PURCHASED: com.techelevator.Candy@3fa77460 New Balance: $22.50
+[04/20/2023 05:42:13 PM] ITEM PURCHASED: com.techelevator.Candy@3fa77460 New Balance: $21.00
+[04/20/2023 05:42:25 PM] ITEM PURCHASED: com.techelevator.Chips@619a5dff New Balance: $17.35
+[04/20/2023 05:43:30 PM] FEED MONEY: $24.00 New Balance: $24.00
+[04/20/2023 05:43:36 PM] ITEM PURCHASED: com.techelevator.Candy@108c4c35 New Balance: $22.50
+[04/20/2023 05:43:53 PM] ITEM PURCHASED: com.techelevator.Candy@108c4c35 New Balance: $21.00
+[04/20/2023 05:43:58 PM] ITEM PURCHASED: com.techelevator.Candy@108c4c35 New Balance: $19.50
+[04/20/2023 05:44:01 PM] ITEM PURCHASED: com.techelevator.Candy@108c4c35 New Balance: $18.00
+[04/20/2023 05:44:04 PM] ITEM PURCHASED: com.techelevator.Candy@108c4c35 New Balance: $16.50
+[04/20/2023 05:44:13 PM] GIVE CHANGE: $16.50 New Balance: $0.00
